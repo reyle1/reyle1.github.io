@@ -1,0 +1,52 @@
+body {
+    background-color: #C1D5FF;
+}
+
+.centerbanner {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#nav-table {
+    width: 800px;
+    text-align: center;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    text-align: center;
+    font-family: Luminari;
+}
+
+.text-image-align {
+    text-align: justify;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    font-family: American Typewriter;
+}
+
+#meaj {
+    max-width: 250px;
+    max-height: auto;
+    float: left;
+    margin-left: 385px;
+    margin-right: auto;
+}
+
+#mesnowboard {
+    max-width: 375px;
+    max-height: auto;  
+    float: left;
+    margin-left: 30px;
+    margin-right: auto;
+} 
